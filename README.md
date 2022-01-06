@@ -17,17 +17,16 @@ Train the device to drive the taxi, pick up the passenger at one location and dr
 
   ## 1. Clone the repo: 
   Clone the Image Processing repo locally. In a terminal, run:   
-  
-        ```
+  ```
         $ git clone https://github.com/GaurangSharma18/Reinforcement-Learning-Open-AI-gym---Taxi.git
         $ cd Reinforcement-Learning-Open-AI-gym---Taxi
         $ git pull
-        ```
+  ```
         
   ## 2. Run the Application  
-        ```
+  ```
         $ python Taxi_reinforecement_learning.py
-        ``` 
+  ``` 
  
  # Problem Description
     The Taxi Problem
